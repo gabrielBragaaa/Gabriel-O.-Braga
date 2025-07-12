@@ -46,6 +46,6 @@ Automated message handler using `whatsapp-web.js` and AI integration.
 
 ## 📫 Contact
 
-- ✉️ Email: **gabriel.ti.dev@gmail.com**  
+- ✉️ Email: **gabriel.bragaa10@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/gabrielBragaaa](https://linkedin.com/in/gabrielBragaaa)  
 - 🐙 GitHub: [github.com/gabrielBragaaa](https://github.com/gabrielBragaaa)
