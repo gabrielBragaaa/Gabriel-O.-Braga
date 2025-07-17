@@ -1,7 +1,6 @@
 # Gabriel Braga
-
-Full Stack Developer. Practical experience with Java, Spring Boot, JavaFX, Flutter, MySQL, and API integration.
-Passionate developer driven by transforming ideas into code. I enjoy exploring new technologies and finding practical solutions to complex problems. 👨‍💻👾💻🚀
+Desenvolvedor Full Stack com experiência prática em Java, Spring Boot, JavaFX, MySQL e integração de APIs.
+Sou um desenvolvedor apaixonado, motivado por transformar ideias em código e aprimorar continuamente minhas habilidades. Gosto de explorar novas tecnologias e encontrar soluções práticas para problemas complexos. 👨‍💻👾💻🚀
 ---
 
 ## 🛠️ Technologies & Tools
