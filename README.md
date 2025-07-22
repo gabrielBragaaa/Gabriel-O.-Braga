@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado, motivado por transformar ideias em código e ap
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Postman Logo" width="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Postman" width="40" height="40"/>
 
 </p>
 
